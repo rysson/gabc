@@ -1,2 +1,7 @@
 *~
 *-auto.tex
+# vim files
+.*.sw?
+# gregorio output files
+*.glog
+*.gtex
