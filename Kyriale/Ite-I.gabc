@@ -4,5 +4,7 @@ name:Ite, Missa est I;
 office-part:Finis Missae;
 date:2009;
 style:modern;
+mode: 8;
+annotation: 8.;
 %%
-(c4) I(g)te,[De-o](g) mis[grá](g')sa[ti-](g) est,[as,](h.) al[al](g)le[le](f)lú[lú](gh~)ia,[ia,](h.) (,) al[al](h)le[le-](gjIH'G)lú[lú-](f!gh)ia.[ia.](h.g.) (::)
+(c4) I[<v>\vspace{-3mm}</v>De](g)te,[o](g) mis[grá-](g')sa[ti](g) est,[as,](h.) al[al](g)le[le](f)lú[lú](gh~)ia,[ia,](h.) (,) al[al](h)le[le-](gjIH'G)lú[lú-](f!gh)ia.[ia.](h.g.) (::)

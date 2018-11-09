@@ -1,0 +1,13 @@
+%Compilation:gregorio Ite-XI.gabc -o Ite-XI-auto.tex:
+%Apercu:gedit Ite-XI-auto.tex:
+mode:1;
+annotation:1.;
+%%
+%(c4) I [De-](ixhi)te,[o](hg!/hd..) (,) mis[grá-](ixf!gh!ivHGfvED)sa[ti-](cd) est.[as.](d.) (::)
+%(Z)
+%℟<v>{\rubrum.}</v> D{e}(ixhi)o(hg/hd..) (,) grá(ixf!gh!ivHGfvED)ti(cd)as.(d.) (::)
+
+c4 ixhi hg!/hd.. , ixf!gh!ivHGfvED cd d. ::
+
+. I--te, . mis--sa est.
+. De--o . grá--ti--as.

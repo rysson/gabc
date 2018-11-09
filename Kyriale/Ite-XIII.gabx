@@ -1,0 +1,13 @@
+%Compilation:gregorio Ite-XIII.gabc -o Ite-XIII-auto.tex:
+%Apercu:gedit Ite-XIII-auto.tex:
+name:;
+annotation:1.;
+%%
+%I(d)te,[De-o](dc!/dfEC.) mis[grá-](ed!/ffd)sa[ti-](cd) est.[as.](d.) (::)
+%(Z)
+%<v>{\rubrum.}</v> D{e}(d)o(dc!/dfEC.) grá(ed!/ffd)ti(cd)as.(d.) (::)
+
+(c4) (d) (dc!/dfEC.) (ed!/ffd) (cd) (d.) (::)
+
+. I--te, mis--sa est.
+. De--o grá--ti--as.

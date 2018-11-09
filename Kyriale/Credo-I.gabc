@@ -2,6 +2,7 @@
 %Apercu:gedit Crubrumo-I-auto.tex:
 name:Crubrumo I;
 def-m1:\grevepisemus{j}{18};
+annotation:4.;
 %%
 (c4) Cre( g)do(e') in(f) u(d)num(e') De(g)um.(h.) (::)
 
@@ -37,4 +38,5 @@ Con(ef)fí(g')te(g)or(g') u(g)num(f') ba(h)ptí(g)sma(e.) (,) in(f) re(e')mis(d)
 
 Et(e') ex(f)spé(g)cto(e.) re(f)sur(e')re(d)cti(e')ó(g)nem(h) mor(f')tu(h)ó(g.)rum.(g.) (::)
 
-Et(ef) vi(g)tam(g') ven(g)tú(gf)ri(e') s<sp>'ae</sp>(ixdh[em1]!iv)cu(h)li.(h.) (::) A(hvGFghG'FE)men.(de..) (::)
+%Et(ef) vi(g)tam(g') ven(g)tú(gf)ri(e') s<sp>'ae</sp>(ixdh[em1]!iv)cu(h)li.(h.) (::) A(hvGFghG'FE)men.(de..) (::)
+Et(ef) vi(g)tam(g') ven(g)tú(gf)ri(e') s<sp>'ae</sp>(ixdh!iv)cu(h)li.(h.) (::) A(hvGFghG'FE)men.(de..) (::)

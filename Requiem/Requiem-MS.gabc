@@ -1,0 +1,29 @@
+%Compilation:gregorio Requiem.gabc:
+name:requiem;
+mode: 6;
+annotation: Intr.;
+annotation: \textsc{vi}.;
+nabc-lines: 1;
+%%
+
+%(c4) Re-(f_fg)qui(f)em *(f_) æ(f!gh_)tér(hggfg_)nam(gf..) (,) do-(f!gh_)na(hg)
+% e(h)is(ixhijihgh!iv_HG) Dó(f_)mi(FG!hv_GFg_)ne :(gf..) (:)
+% et(gh~) lux(hvGF) per(gh)pé(g_h)tu(gh__!GFg_)a(gf..) (;)
+% lú(g_h_GF)ce(fgh_)at(ixhijihgh!iv_HG) e(fg!hv_GFg_)()is.(gf..) (::)
+
+(c4) Re-(f.fg)qui(f)em *(f.) æ(f!gh.)tér(hggfg.)nam(gf..) (,) do-(f!gh.)na(hg)
+ e(h)is(ixhijihgh!iv.HG) Dó(f.)mi(FG!hv.GFg.)ne :(gf..) (:)
+ et(gh~) lux(hvGF) per(gh)pé(g.h)tu(gh..!/GFg.)a(gf..) (;)
+ lú(g.h.GF)ce(fgh.)at(ixhijihg!h!iv.HG) e(fg!hv.GFg.)()is.(gf..) (::)
+
+%(c4) Re-(f.fg|unpe)qui(f|un)em *(f.|un) æ(f!gh.)tér(hggfg.)nam(gf..) (,) do-(f!gh.)na(hg)
+% e(h)is(ixhijihgh!iv.HG) Dó(f.)mi(FG!hv.GFg.)ne :(gf..) (:)
+% et(gh~) lux(hvGF) per(gh)pé(g.h)tu(gh..!GFg.)a(gf..) (;)
+% lú(g.h.GF)ce(fgh.)at(ixhijihg!h!iv.HG) e(fg!hv.GFg.)()is.(gf..) (::)
+
+<i>Ps.</i> Te(fg) de(gf)cet(gh) hy(h)mnus(h) De(ixh)us(i) in(h) Si(g)on,(f) (;)
+et(f) ti(f)bi(f) red(f)dé(fg)tur(f) vo(f)tum(f) in(g) Ie(fd)rú(f)sa(g)lem.(f) (::)
+Ré-(f.fg)qui(f)em.(f.) (::)
+<i>Ps.</i> Ex(fg)áu(gf~)di(gh) o(h)ra(h)ti(h)ó(ixi)nem(h) me(g)am,(f) (;)
+ad(f) te(f) o(f)mnis(f) ca(g)ro(fd) vé(f)ni(g)et.(f) (::)
+Ré-(f.fg)qui(f)em.(f.) (::)

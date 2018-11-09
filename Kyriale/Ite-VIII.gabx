@@ -1,0 +1,13 @@
+%Compilation:gregorio Ite-VIII.gabc -o Ite-VIII-auto.tex:
+%Apercu:gedit Ite-VIII-auto.tex:
+name:Ite, Missa est VIII;
+office-part:Kyriale;
+annotation:5.;
+%%
+%(c3) I [De-](gxd!f!gh)te,[o](h.ivHGh.kvIH'Ghih. , gxhvFE'Dgf) mis[grá-](e')sa[ti-](e) est.[as.](d.) (::)
+
+%c3 gxd!f!gh h.ivHGh.kvIH'Ghih. , gxhvFE'Dgf e' e d. ::
+(c3) (gxd!f!gh) (h.ivHGh.kvIH'Ghih. , gxhvFE'Dgf) (e') (e) (d.) (::)
+
+. I--te, . mis--sa est.
+. De--o . grá--ti--as.

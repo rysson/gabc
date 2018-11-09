@@ -1,0 +1,12 @@
+%Compilation:gregorio Ite-XV.gabc -o Ite-XV-auto.tex:
+%Apercu:gedit Ite-XV-auto.tex:
+name:;
+annotation:4.;
+%%
+%(f3) I(e)te,[De-o](fh) mis[grá-](hg)sa[ti-](f) est.[as.](g.) (::)
+% <sp>R/</sp> D{e}(e)o(fh) grá(hg)ti(f)as.(g.) (::)
+
+(f3) (e) (fh) (hg) (f) (g.) (::)
+
+. I--te, mis--sa est.
+. De--o grá--ti--as.

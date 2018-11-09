@@ -1,0 +1,13 @@
+%Compilation:gregorio Ite-IV.gabc -o Ite-IV-auto.tex:
+%Apercu:gedit Ite-IV-auto.tex:
+name:Ite, Missa est IV;
+office-part:Finis Missae;
+date:2009;
+style:modern;
+mode: 1;
+annotation: 1.;
+%%
+
+ (c4)I<v>\grxmlt{-||De}</v>(h)<v>\grxmlt[L]{te, ||o }</v>(hghjvIH'Gh.) (,)<v>\grxmlt[L]{mis||grá}</v>(hvGF'De.)<v>\grxmlt[P]{sa ||ti}</v>(,)<v>\grxmlt{est.||as.}</v>(eg!/hd.!/egF'E) (f') (d) (d.) (::)
+
+

@@ -1,6 +1,8 @@
 %Compilation:gregorio Gloria-II.gabc:
 %Apercu:gedit Gloria-II.tex:
-name:Gloria II;
+name: Gloria II;
+mode: 1;
+annotation: 1.;
 %%
 (c4) Gló(h)ri(gf)a(f') in(f) ex(g)cél(h')sis(g) De(ixih)o.(h.) (::)
 
@@ -14,7 +16,7 @@ Glo(h)ri(j')fi(k)cá(mvLK)mus(jk) te.(h.) (::)
 
 Grá(j')ti(g)as(f') á(h)gi(g')mus(h) ti(d.)bi(c.) (,) pro(f')pter(g) ma(ixhiH'G )gnam(f.) gló(ghG'F)ri(ed)am(cd~) tu(d.)am.(d.) (::)
 
-Dó(d')mi(c)ne(f) De(gh)us,(h.) (,) Rex(j) cæ(gf)lé(gh)stis,(h.) (,) De(k)us(jk) Pa(k)ter(g.) o(ixh!ij )mní(k)pot(jvIH)ens.(h.) (::) 
+Dó(d')mi(c)ne(f) De(gh)us,(h.) (,) Rex(j) cæ(gf)lé(gh)stis,(h.) (,) De(k)us(jk) Pa(k)ter(g.) o(ixh!ij )mní(k)pot(jvIH)ens.(h.) (::)
 
 Dó(ixhi!jvvIH'i)mi(g)ne(f.) Fi(h)li(d') u(f)ni(gf)gé(ed)ni(c)te(d_f) (,) Ie(gf)su(ef) Chri(d. )ste.(d.) (::)
 

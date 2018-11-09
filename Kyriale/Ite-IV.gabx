@@ -1,0 +1,14 @@
+%Compilation:gregorio Ite-IV.gabc -o Ite-IV-auto.tex:
+%Apercu:gedit Ite-IV-auto.tex:
+name:Ite, Missa est IV;
+office-part:Finis Missae;
+date:2009;
+style:modern;
+mode: 1;
+annotation: 1.;
+%%
+
+c4 h hghjvIH'Gh. , hvGF'De. , eg!/hd.!/egF'E f' d d. ::
+
+. I--te, . mis--sa est.
+. De--o . grá--ti--as.
